@@ -8,30 +8,28 @@ title: Julien Connault's Resume
 I'm a design-minded, detail oriented Front-End Engineer passionate about combining clean code with interactive design.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="julien.connault@gmail.com">julien.connault@gmail.com</a>
+| <a href="https://bekiboo-portfolio.vercel.app">Portfolio</a>
+| <a href="https://www.linkedin.com/in/julien-connault/">LinkedIn</a>
+| <a href="https://github.com/Bekiboo">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2018-2024`
-**Brigham Young University - Idaho**, Rexburg, ID
+**Brigham Young University - Idaho**, Rexburg, ID  
+_2018-2024_
 
-- Bachelor of Science in Applied Technology
+- **Bachelor of Science in Applied Technology**
+  - Full academic scholarship with a 3.96 GPA
 
-- Full academic scholarship with 3.96 GPA
+**Certificates:**
 
-- Certificate of Web Front-End – 2020
-
-- Certificate of Web Development – 2021
-
-- Certificate of Computer Programming – 2022
-
-- Certificate of Business Analysis – In Progress
+- Web Front-End – 2020
+- Web Development – 2021
+- Computer Programming – 2022
+- Business Analysis – In Progress
 
 ## Related Experience
 
