@@ -33,41 +33,48 @@ _2018-2024_
 
 ## Related Experience
 
-### **Internship**
+### Internship
 
-- _November 2023 - January 2024_
-- **DigitalAdventures.io**, Andorra
+`November 2023 - Januay 2024`
+**DigitalAdventures.io**, Andorra
 
-  Developed a web application for psychologists, managing patients, agendas, and payments.
+Developing a web application for psychologist to help them manage their
+patients, their agenda and their payments. I am in charge of patients
+management and note taking.
 
-  **Technologies:** Sveltekit, Tailwind, Supabase, TypeScript
+#### Sveltekit - Tailwind - Supabase - Typescript
 
-### **Freelance Work - Elevatus Foundation, Web Developer**
+### Freelance Work
 
-- _September 2022 - Present_
+`September 2022 - Present`
+**Elevatus Foundation**, Web Developer
 
-  - Developed a comprehensive website, demonstrating autonomy.
-  - Increased donor retention by over 20% with a functional blog and authentication features.
+Developed a website from inception to completion, demonstrating
+complete autonomy, resulting in fiinding 3 new corporate donors in 2023.
+Designed and implemented a functional blog with admin controls and
+authentication features, increasing donor retention by more than 20%.
 
-  **Technologies:** Sveltekit, Tailwind, Supabase, TypeScript
+#### Sveltekit - Tailwind - Supabase - Typescript
 
-### **Freelance Work - CharityVision, Prototype Developer**
+`September 2022 - November 2022`
+**CharityVision**, Prototype Developer
 
-- _September 2022 - November 2022_
+Developed a website from inception to completion, demonstrating
+complete autonomy, resulting in fiinding 3 new corporate donors in 2023.
+Designed and implemented a functional blog with admin controls and
+authentication features, increasing donor retention by more than 20%.
 
-  - Developed a website from inception, securing 3 new corporate donors in 2023.
-  - Implemented a functional blog with admin controls and authentication features.
+#### Sveltekit - Tailwind - Supabase - Typescript
 
-  **Technologies:** Sveltekit, Tailwind, Supabase, TypeScript
+`March 2023 - April 2023`
+**Hozint**, Web Developer
 
-### **Freelance Work - Hozint, Web Developer**
+Developed a website from inception to completion, demonstrating
+complete autonomy, resulting in fiinding 3 new corporate donors in 2023.
+Designed and implemented a functional blog with admin controls and
+authentication features, increasing donor retention by more than 20%.
 
-- _March 2023 - April 2023_
-
-  - Developed a website, securing 3 new corporate donors in 2023.
-  - Implemented a functional blog with admin controls and authentication features.
-
-  **Technologies:** Svelte, JSDocs, MapLibre
+#### Svelte - JSDocs - MapLibre
 
 ## Service and Work History
 
