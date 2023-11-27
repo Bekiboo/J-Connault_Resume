@@ -80,7 +80,9 @@ complete autonomy, resulting in fiinding 3 new corporate donors in 2023.
 Designed and implemented a functional blog with admin controls and
 authentication features, increasing donor retention by more than 20%.
 
-#### Svelte - JSDocs - MapLibre
+```
+Svelte - JSDocs - MapLibre
+```
 
 ## Service and Work History
 
